@@ -1,8 +1,8 @@
 class state9:
     def __init__(self,live):
         self.live=int(float(float(live)/11.1112))
-        if live>9:
-            self.live=9
+        if self.live>8:
+            self.live=8
     
     def lost(self):
             self.live=self.live-1
