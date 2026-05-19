@@ -1,2 +1,2 @@
-application pratics state 9
+label windows
 
