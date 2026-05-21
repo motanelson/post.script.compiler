@@ -1,2 +1,2 @@
-label windows
+library text input template
 
